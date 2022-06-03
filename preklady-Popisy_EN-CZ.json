@@ -68,12 +68,16 @@
     "cz": "Materiál:"
   },
   {
+    "en": "Matte full grain hand stained vegetable tanned leather",
+    "cz": "Matná hrubozrnná ručně barvená vyčiněná kůže"
+  },
+  {
     "en": "Full grain hand stained vegetable tanned leather",
-    "cz": "Pravá kůže"
+    "cz": "Hrubozrnná ručně barvená vyčiněná kůže"
   },
   {
     "en": "Full grain leather",
-    "cz": "Pravá kůže"
+    "cz": "Hrubozrnná kůže"
   },
   {
     "en": "Hammered leather",
@@ -82,6 +86,14 @@
   {
     "en": "Soft leather",
     "cz": "Měkká pravá kůže"
+  },
+  {
+    "en": "Soft full grain leather",
+    "cz": "Měkká hrubozrnná kůže"
+  },
+  {
+    "en": "Box smooth leather",
+    "cz": "Hladká pravá kůže"
   },
   {
     "en": "Smooth leather",
@@ -102,6 +114,14 @@
   {
     "en": "Matte leather",
     "cz": "Matná pravá kůže"
+  },
+  {
+    "en": "Embossed suede leather",
+    "cz": "Reliéfní semišová kůže"
+  },
+  {
+    "en": "Cloth and leather",
+    "cz": "Tkanina a kůže"
   },
   {
     "en": "Straw effect cotton blend",
@@ -164,6 +184,10 @@
     "cz": "2 přihrádky"
   },
   {
+    "en": "3 document compartments",
+    "cz": "3 přihrádky na dokumenty"
+  },
+  {
     "en": "3 compartments",
     "cz": "3 přihrádky"
   },
@@ -212,8 +236,16 @@
     "cz": "2 kapsy na bocích se zapínáním"
   },
   {
+    "en": "2 pockets with snap button closure",
+    "cz": "2 kapsy se zapínáním na knoflík"
+  },
+  {
     "en": "Retractable handle",
     "cz": "Výsuvná rukojeť"
+  },
+  {
+    "en": "Swivel wheels",
+    "cz": "Otočná kolečka"
   },
   {
     "en": "Wheels",
@@ -332,6 +364,10 @@
     "cz": "2 přihrádky na bankovky"
   },
   {
+    "en": "Objects-holder pocket",
+    "cz": "Kapsa na předměty"
+  },
+  {
     "en": "Coin holder",
     "cz": "Kapsa na mince"
   },
@@ -404,6 +440,10 @@
     "cz": "Široký kožený a látkový nastavitelný odnímatelný ramenní popruh"
   },
   {
+    "en": "Wide leather and cloth shoulder strap",
+    "cz": "Široký kožený a látkový ramenní popruh"
+  },
+  {
     "en": "Adjustable strap, Detachable shoulder strap, Leather and cloth shoulder strap",
     "cz": "Nastavitelný odnímatelný kožený a textilní ramenní popruh"
   },
@@ -416,8 +456,28 @@
     "cz": "2 odnímatelné kožené ramenní popruhy"
   },
   {
+    "en": "2 detachable and adjustable leather shoulder straps",
+    "cz": "2 odnímatelné a nastavitelné kožené ramenní popruhy"
+  },
+  {
     "en": "Detachable and adjustable leather shoulder strap",
     "cz": "Odnímatelný nastavitelný kožený ramenní popruh"
+  },
+  {
+    "en": "Detachable and adjustable fabric strap",
+    "cz": "Odnímatelný a nastavitelný látkový popruh"
+  },
+  {
+    "en": "Adjustable leather and cloth shoulder strap",
+    "cz": "Nastavitelný kožený a látkový ramenní popruh"
+  },
+  {
+    "en": "Adjustable leather shoulder strap",
+    "cz": "Nastavitelný kožený ramenní popruh"
+  },
+  {
+    "en": "Detachable leather shoulder strap",
+    "cz": "Odnímatelný kožený ramenní popruh"
   },
   {
     "en": "Detachable shoulder strap",
@@ -426,6 +486,10 @@
   {
     "en": "Detachable handle",
     "cz": "Odnímatelná rukojeť"
+  },
+  {
+    "en": "Chain handle",
+    "cz": "Řetízková rukojeť"
   },
   {
     "en": "Handle drop",
@@ -492,6 +556,10 @@
     "cz": "Nastavitelná kožená rukojeť"
   },
   {
+    "en": "Leather adjustable handle",
+    "cz": "Nastavitelná kožená rukojeť"
+  },
+  {
     "en": "Hardware:",
     "cz": "Kovové doplňky:"
   },
@@ -546,6 +614,10 @@
   {
     "en": "Push-lock clasp with key",
     "cz": "Zapínací přezka s klíčem"
+  },
+  {
+    "en": "Push-lock clasp",
+    "cz": "Zapínací přezka"
   },
   {
     "en": "Closure “Old America” Style",
