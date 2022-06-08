@@ -56,7 +56,7 @@
     "cz": "Cestovní kožená oděvní taška"
   },
   {
-    "en": "Exclusive leather handy wrist bag for man",
+    "en": "Exclusive leather handy wrist bag for men",
     "cz": "Exkluzivní pánská kožená taška na zápěstí"
   },
   {
@@ -124,6 +124,10 @@
     "cz": "Kožená doktorská aktovka se 3 přihrádkami"
   },
   {
+    "en": "Leather Attaché Briefcase",
+    "cz": "Kožená aktovka Attaché"
+  },
+  {
     "en": "Document Leather briefcase",
     "cz": "Kožená aktovka na dokumenty"
   },
@@ -164,6 +168,10 @@
     "cz": "Kožený batoh"
   },
   {
+    "en": "Soft leather toilet bag",
+    "cz": "Toaletní taška z měkké kůže"
+  },
+  {
     "en": "Leather toilet bag - Large size",
     "cz": "Kožená toaletní taška - velká"
   },
@@ -188,16 +196,24 @@
     "cz": "Kožená dámská kabelka do ruky"
   },
   {
+    "en": "Leather toiletry bag - Large size",
+    "cz": "Kožená toaletní taška - velká"
+  },
+  {
+    "en": "Leather toiletry bag - Small size",
+    "cz": "Kožená toaletní taška - malá"
+  },
+  {
+    "en": "Leather toiletry bag",
+    "cz": "Kožená toaletní taška"
+  },
+  {
     "en": "Leather toilet bag",
     "cz": "Kožená toaletní taška"
   },
   {
-    "en": "Leather Crossbody Bag",
-    "cz": "Kožená crossbody kabelka"
-  },
-  {
     "en": "Leather duffle bag",
-    "cz": "Kožená taška \"Duffle"
+    "cz": "Kožená taška \"Duffle\""
   },
   {
     "en": "Exclusive 2 fold leather wallet for men with coin pocket",
@@ -245,27 +261,35 @@
   },
   {
     "en": "Exclusive leather card holder with money clip",
-    "cz": "Exkluzivní kožené pouzdro na karty se sponou na bankovky"
+    "cz": "Exkluzivní kožené pouzdro na kreditní karty se sponou na bankovky"
   },
   {
     "en": "Exclusive leather card holder",
-    "cz": "Exkluzivní kožené pouzdro na karty"
+    "cz": "Exkluzivní kožené pouzdro na kreditní karty"
   },
   {
     "en": "Exclusive leather credit/business card holder",
     "cz": "Exkluzivní kožené pouzdro na kreditky nebo vizitky"
   },
   {
+    "en": "Exclusive leather credit/business card",
+    "cz": "Exkluzivní kožené pouzdro na kreditky nebo vizitky"
+  },
+  {
     "en": "Exclusive leather eyeglasses/Smartphone holder Large size",
-    "cz": "Exkluzivní kožené pouzdro na brýle nebo na smartphone - velké"
+    "cz": "Exkluzivní kožené pouzdro na brýle nebo na mobil - velké"
   },
   {
     "en": "Exclusive leather eyeglasses/Smartphone/Watch holder",
-    "cz": "Exkluzivní kožené pouzdro na brýle nebo na smartphone"
+    "cz": "Exkluzivní kožené pouzdro na brýle nebo na mobil"
   },
   {
     "en": "Exclusive leather jewellery case",
     "cz": "Exkluzivní kožené pouzdro na šperky"
+  },
+  {
+    "en": "Soft leather jewellery case",
+    "cz": "Pouzdro na šperky z měkké kůže"
   },
   {
     "en": "Exclusive leather pen holder",
@@ -282,6 +306,10 @@
   {
     "en": "Exclusive leather valet tray small size",
     "cz": "Exkluzivní kožená odkládací přihrádka - malá"
+  },
+  {
+    "en": "Leather valet tray",
+    "cz": "Kožená odkládací přihrádka"
   },
   {
     "en": "Exclusive leather wallet for women",
@@ -348,8 +376,16 @@
     "cz": "Kožená crossover taška"
   },
   {
+    "en": "Leather desk pad with inner compartment",
+    "cz": "Kožená podložka na stůl s vnitřní přihrádkou"
+  },
+  {
     "en": "Leather Desk Pad",
     "cz": "Kožená psací podložka"
+  },
+  {
+    "en": "Soft leather fanny pack",
+    "cz": "Ledvinka z měkké kůže"
   },
   {
     "en": "Leather fanny pack",
@@ -377,7 +413,7 @@
   },
   {
     "en": "Straw effect bucket bag",
-    "cz": "Bucket taška"
+    "cz": "\"Bucket\" taška"
   },
   {
     "en": "Exclusive leather document case with ring binder",
@@ -385,7 +421,7 @@
   },
   {
     "en": "Leather maxi duffle bag",
-    "cz": "Kožená taška \"maxi duffle"
+    "cz": "Kožená taška \"maxi duffle\""
   },
   {
     "en": "Leather document case with zip closure",
@@ -393,7 +429,7 @@
   },
   {
     "en": "Travel set Gladstone bags",
-    "cz": "Cestovní sada tašek \"Gladstone"
+    "cz": "Cestovní sada tašek \"Gladstone\""
   },
   {
     "en": "Travel set",
@@ -416,6 +452,10 @@
     "cz": "Kožená aktovka s více přihrádkami"
   },
   {
+    "en": "Leather handy wrist bag for men",
+    "cz": "Pánské kožené pouzdro na zápěstí"
+  },
+  {
     "en": "Leather handy wrist bag",
     "cz": "Kožené pouzdro na zápěstí"
   },
@@ -425,15 +465,23 @@
   },
   {
     "en": "Doctor gladstone leather bag with front straps",
-    "cz": "Kožená doktorská taška \"Gladstone"
+    "cz": "Kožená doktorská taška \"Gladstone\""
   },
   {
     "en": "Doctor gladstone leather bag",
-    "cz": "Kožená doktorská taška \"Gladstone"
+    "cz": "Kožená doktorská taška \"Gladstone\""
+  },
+  {
+    "en": "Gladstone Leather Bag - Large size",
+    "cz": "Kožená taška \"Gladstone\" – velká"
+  },
+  {
+    "en": "Gladstone Leather Bag - Small size",
+    "cz": "Kožená taška \"Gladstone\" – malá"
   },
   {
     "en": "Leather bucket bag",
-    "cz": "Kožená taška \"bucket"
+    "cz": "Kožená taška \"bucket\""
   },
   {
     "en": "Leather briefcase 2 compartments",
@@ -453,7 +501,7 @@
   },
   {
     "en": "Leather tote",
-    "cz": "Kožená kabelka \"tote"
+    "cz": "Kožená kabelka \"tote\""
   },
   {
     "en": "Exclusive Leather Crossbody Bag",
@@ -529,7 +577,7 @@
   },
   {
     "en": "Leather hobo bag",
-    "cz": "Kožená taška \"hobo"
+    "cz": "Kožená taška \"hobo\""
   },
   {
     "en": "Leather multi compartment laptop briefcase with two front pockets",
@@ -568,6 +616,10 @@
     "cz": "Mini crossbody taška z měkké kůže"
   },
   {
+    "en": "Mini soft quilted leather cross bag",
+    "cz": "Mini crossbody taška z měkké prošívané kůže"
+  },
+  {
     "en": "Saffiano leather backpack for women",
     "cz": "Dámský batoh z kůže Saffiano"
   },
@@ -577,7 +629,7 @@
   },
   {
     "en": "Saffiano leather tote",
-    "cz": "Kožená kabelka \"Saffiano"
+    "cz": "Kožená kabelka \"Saffiano\""
   },
   {
     "en": "Small soft leather backpack for women",
@@ -586,6 +638,10 @@
   {
     "en": "Soft leather backpack for women",
     "cz": "Dámský batoh z měkké kůže"
+  },
+  {
+    "en": "Leather Backpack for Women",
+    "cz": "Dámský kožený batoh"
   },
   {
     "en": "Soft leather backpack",
@@ -598,6 +654,10 @@
   {
     "en": "Soft Leather cellphone holder mini cross bag",
     "cz": "Mini crossbody taška na mobil z měkké kůže"
+  },
+  {
+    "en": "Soft leather clutch with chain strap",
+    "cz": "Psaníčko z měkké kůže s řetízkovým řemínkem"
   },
   {
     "en": "Soft leather clutch",
@@ -614,6 +674,18 @@
   {
     "en": "Soft leather mini cross bag",
     "cz": "Mini crossbody taška z měkké kůže"
+  },
+  {
+    "en": "Crossbody leather bag",
+    "cz": "Kožená crossbody taška"
+  },
+  {
+    "en": "Exclusive Leather Crossbody Bag",
+    "cz": "Excluzivní kožená crossbody kabelka"
+  },
+  {
+    "en": "Leather Crossbody Bag",
+    "cz": "Kožená crossbody kabelka"
   },
   {
     "en": "Soft leather shoulder bag with tassel detail",
@@ -676,6 +748,10 @@
     "cz": "Nastavitelný kožený ramenní popruh"
   },
   {
+    "en": "Adjustable fabric strap",
+    "cz": "Nastavitelný látkový popruh"
+  },
+  {
     "en": "Leather travel bag - Large size",
     "cz": "Kožená cestovní taška - velká"
   },
@@ -692,10 +768,6 @@
     "cz": "Kožená cestovní taška s předními popruhy - malá"
   },
   {
-    "en": "Travel leather bag with side pockets",
-    "cz": "Cestovní kožená taška s bočními kapsami"
-  },
-  {
     "en": "Travel leather bag with side pockets - Large size",
     "cz": "Cestovní kožená taška s bočními kapsami - velká"
   },
@@ -704,8 +776,16 @@
     "cz": "Cestovní kožená taška s bočními kapsami - malá"
   },
   {
+    "en": "Travel leather bag with side pockets",
+    "cz": "Cestovní kožená taška s bočními kapsami"
+  },
+  {
     "en": "Travel leather bag- Small size",
     "cz": "Cestovní kožená taška- malá"
+  },
+  {
+    "en": "Leather mini bag",
+    "cz": "Kožená mini kabelka"
   },
   {
     "en": "Travel leather duffle bag with pocket on the back side - Small size",
@@ -717,7 +797,7 @@
   },
   {
     "en": "Travel leather duffle bag",
-    "cz": "Cestovní kožená taška \"duffle"
+    "cz": "Cestovní kožená taška \"duffle\""
   },
   {
     "en": "Travel soft leather duffle bag",
@@ -750,5 +830,9 @@
   {
     "en": "WATERSTOP Leather waterproofing product",
     "cz": "WATERSTOP - Voděodolný prostředek pro péči o kůži"
+  },
+  {
+    "en": "Luggage tag",
+    "cz": "Štítek na zavazadla"
   }
 ]
