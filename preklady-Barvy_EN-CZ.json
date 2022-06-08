@@ -12,6 +12,10 @@
     "cz": "Tmavě modrá"
   },
   {
+    "en": "Light Blue",
+    "cz": "Světle modrá"
+  },
+  {
     "en": "Dark Brown",
     "cz": "Tmavě hnědá"
   },
@@ -97,7 +101,7 @@
   },
   {
     "en": "Nude",
-    "cz": "Nude"
+    "cz": "Tělová"
   },
   {
     "en": "Orange",
@@ -130,6 +134,26 @@
   {
     "en": "Yellow",
     "cz": "Žlutá"
+  },
+  {
+    "en": "Bordeaux",
+    "cz": "Bordó"
+  },
+  {
+    "en": "Sand",
+    "cz": "Písková"
+  },
+  {
+    "en": "Coral",
+    "cz": "Korálová"
+  },
+  {
+    "en": "Lilac",
+    "cz": "Šeříková"
+  },
+  {
+    "en": "Caramel",
+    "cz": "Karamelová"
   },
   {
     "en": "Dark",
